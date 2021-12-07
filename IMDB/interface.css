@@ -1,0 +1,25 @@
+body {
+    background: #888;
+    background-image: url(imdb.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30;
+    padding: 10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    color: black;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
+.container {
+    background-color: rgb(197, 197, 13);
+    padding: 25px;
+    color: black;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+}
